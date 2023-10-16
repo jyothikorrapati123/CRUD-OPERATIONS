@@ -1,0 +1,10 @@
+lst=["jyothi","sumathi","venky"]
+print(lst)
+#
+lst:list=[]
+lst.append("jyothi")
+print(lst)
+#insert
+attendees=["jyothi","sumathi","venky"]
+attendees.insert(1,"sagar")
+print(attendees)
